@@ -1,0 +1,7 @@
+C:\Users\odarmokhval.Intellias\source\repos\LectureOneGenericList\LectureOneGenericList\bin\Debug\LectureOneGenericList.exe.config
+C:\Users\odarmokhval.Intellias\source\repos\LectureOneGenericList\LectureOneGenericList\bin\Debug\LectureOneGenericList.exe
+C:\Users\odarmokhval.Intellias\source\repos\LectureOneGenericList\LectureOneGenericList\bin\Debug\LectureOneGenericList.pdb
+C:\Users\odarmokhval.Intellias\source\repos\LectureOneGenericList\LectureOneGenericList\obj\Debug\LectureOneGenericList.csprojAssemblyReference.cache
+C:\Users\odarmokhval.Intellias\source\repos\LectureOneGenericList\LectureOneGenericList\obj\Debug\LectureOneGenericList.csproj.CoreCompileInputs.cache
+C:\Users\odarmokhval.Intellias\source\repos\LectureOneGenericList\LectureOneGenericList\obj\Debug\LectureOneGenericList.exe
+C:\Users\odarmokhval.Intellias\source\repos\LectureOneGenericList\LectureOneGenericList\obj\Debug\LectureOneGenericList.pdb
